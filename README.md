@@ -10,10 +10,13 @@ Ammar J. Abdlmutalib¹¶*, Korhan Ayranci¹¶*, Umair Bin Waheed¹, Hamad D. Alh
 **Corresponding Authors:**
 - Ammar J. Abdlmutalib: [ammar.mohammed@kfupm.edu.sa](mailto:ammar.mohammed@kfupm.edu.sa)
 - Korhan Ayranci: [korhan.ayranci@kfupm.edu.sa](mailto:korhan.ayranci@kfupm.edu.sa)
-## How to Download Videos
-The prediction videos can be downloaded in the following ways:
-1. **Direct Download**: Click on a video file in the [predicted_videos folder](https://github.com/amarjuma2010/Object-detection-for-sedimentary-structures/tree/main/predicted_videos) and select "Download."
-2. **Download ZIP**: Click [here](https://github.com/amarjuma2010/Object-detection-for-sedimentary-structures/archive/refs/heads/main.zip) to download the entire repository as a ZIP file.
-3. **Clone Repository**: Run the following command in a terminal:
+## How to Download Prediction Videos
+
+**Since GitHub restricts direct downloads of large files, the prediction videos can be obtained by cloning the repository using the following steps:**  
+
+### 🔹 **Option 1: Clone the Repository (Recommended)**
+1. Open a terminal or command prompt.  
+2. Run the following command:  
    ```bash
    git clone https://github.com/amarjuma2010/Object-detection-for-sedimentary-structures.git
+
